@@ -13,7 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "characters": "Bruce Wayne",
+      "alt_img": null
     },
     {
       "id": "dc-superman",
@@ -21,7 +22,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": null
     },
     {
       "id": "dc-flash",
@@ -166,6 +168,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "QwcgOz2",
+      "superhero": "Drake and Josh",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Brothers",
+      "first_appearance": "Amanda's show - Season one",
+      "characters": "Actors, singers",
+      "alt_img": "https://e7.pngegg.com/pngimages/886/490/png-clipart-drake-josh-tazos-toy-milk-caps-nickelodeon-drake-josh-amp-tazos-thumbnail.png"
     }
   ]
 }
